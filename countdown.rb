@@ -6,4 +6,3 @@ def countdown(n)
   n-1
 end
 end
-
