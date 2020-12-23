@@ -6,7 +6,7 @@ def countdown(n)
   n = n - 1
   if n == 0
     return "HAPPY NEW YEAR"
-  else 
+  else
     coundown(n)
  end
 end
