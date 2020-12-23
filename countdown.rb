@@ -5,6 +5,7 @@ def countdown(n)
   sleep(1.second)
   puts "#{n} SECOND(S)!"
   n = n - 1
+  sleep(1.second)
  end
  return "HAPPY NEW YEAR!"
 end
