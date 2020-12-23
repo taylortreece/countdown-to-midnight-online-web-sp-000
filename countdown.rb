@@ -1,6 +1,6 @@
 
 
-def countdown_with_sleep(n)
+def countdown(n)
   while n > 0 do
   puts "#{n} SECOND(S)!"
   sleep 1
